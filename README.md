@@ -1,2 +1,1 @@
-# vanity-url-sniper
-discord vanity url sniper
+#KESH DENİLEN EZİK FIRLAMA OROSPU EVLADİ SNİPERİN PUBLANDI HERKES KULLANACAK SNİPİNİ
