@@ -45,11 +45,11 @@ rl.question("> ", async (answer) => {
       const maxConcurrency = 500; // Increase concurrency for better performance
 
       const WEBHOOKS = {
-        success: "https://discord.com/api/webhooks/1219039225081495613/B-kYa1EeE1Ol6s3Khmzmn_T4CXIVEVtNbCPopyi-lwDYbQp3FqXxx_oVdaNhFd8UaM-G",
+        success: "",
       };
-      const Token = "MTIxMjAzNDIyMTMyMTc1MjY1Nw.GLXled.tLsSWt-DuzKGZfEGfYIL0XAYVFwGR5R6Qjdack";
-      const Token2 = "MTIxMjAzNDIyMTMyMTc1MjY1Nw.GLXled.tLsSWt-DuzKGZfEGfYIL0XAYVFwGR5R6Qjdack";
-      const guild = "1207323095149453343";
+      const Token = "";
+      const Token2 = "";
+      const guild = "";
       const bot = new Eris(Token2);
 
       const logsPath = './logs';
