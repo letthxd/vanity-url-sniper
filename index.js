@@ -39,7 +39,7 @@ rl.question("> ", async (answer) => {
     case '1':
       console.log("Running AutoClaimer module...");
       console.clear();
-      setTitle('Letth Vanity Sniper v0.1');
+      setTitle('keshxrd Vanity Sniper v0.1');
 
       const claimedVanities = new Set();
       const maxConcurrency = 500; // Increase concurrency for better performance
