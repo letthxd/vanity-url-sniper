@@ -1,0 +1,22 @@
+﻿[11:39:16.580] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1205880787732537426] Can claim vanity on this server!
+[11:39:16.582] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[11:39:16.582] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[11:40:04.103] [1m[37m[INFO/Discord][39m[22m Claiming vanity yenilmez in guild 1205880787732537426
+[11:40:04.104] [1m[37m[INFO/Discord][39m[22m Claimed yenilmez in 672ms (0.672s): 1205880787732537426
+[11:40:04.104] [1m[37m[INFO/Discord][39m[22m {"code":"yenilmez","uses":0}
+[21:48:26.393] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1207323095149453343] Can claim vanity on this server!
+[21:48:26.395] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[21:48:26.395] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[21:49:08.271] [1m[37m[INFO/Discord][39m[22m Claiming vanity kemirgen in guild 1207323095149453343
+[21:49:08.272] [1m[37m[INFO/Discord][39m[22m Claimed kemirgen in 1378ms (1.378s): 1207323095149453343
+[21:49:08.272] [1m[37m[INFO/Discord][39m[22m {"code":"kemirgen","uses":0}
+[21:52:21.565] [1m[37m[SUCCESS/AutoClaimer][39m[22m [1207323095149453343] Can claim vanity on this server!
+[21:52:21.567] [1m[37m[INFO/Gateway][39m[22m Logged in as keshxrd.#0
+[21:52:21.567] [1m[37m[INFO/Gateway][39m[22m Monitoring 100% of vanities
+[22:00:53.240] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:01:12.773] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[22:02:16.108] [1m[37m[INFO/AutoClaimer][39m[22m No guilds left to claim!
+[14:31:25.347] [1m[37m[INFO/WebSocket Error: Error: Invalid token: MTIxMjAzNDIyMTMyMTc1MjY1Nw.GLXled.tLsSWt-DuzKGZfEGfYIL0XAYVFwGR5R6Qjdack][39m[22m undefined
+[14:31:25.348] [1m[37m[INFO/WebSocket Error: Error: Authentication failed][39m[22m undefined
+[12:44:45.094] [1m[37m[INFO/WebSocket Error: Error: Invalid token: MTIxMjAzNDIyMTMyMTc1MjY1Nw.GLXled.tLsSWt-DuzKGZfEGfYIL0XAYVFwGR5R6Qjdack][39m[22m undefined
+[12:44:45.096] [1m[37m[INFO/WebSocket Error: Error: Authentication failed][39m[22m undefined
